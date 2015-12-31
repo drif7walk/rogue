@@ -1,0 +1,1 @@
+gcc main.c -lGL -lglut -std=c11
